@@ -1,0 +1,34 @@
+.nav-wrapper{
+  background-color: #74A99C;
+}
+
+.parallax img {
+    max-width: 200%;
+    width: 100%;
+}
+
+.intro-banner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.intro-banner .header{
+
+}
+
+.intro-banner img{
+  height: 100vh;
+  filter: blur(3px);
+}
+
+#footer{
+  background-color: #74A99C;
+}
+
+div .material-icons{
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+}
